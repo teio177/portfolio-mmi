@@ -1,0 +1,18 @@
+head {
+
+    style: none;
+}
+h1{
+    color:aqua;
+}
+img{
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.portfolio{
+   text-align: center;
+}
+p{
+    margin-bottom: 30px;
+}
